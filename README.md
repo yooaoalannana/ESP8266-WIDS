@@ -112,6 +112,22 @@ python wids.py --pcap test_samples/evil_twin_crypto_mismatch.pcap
  * Passive monitor-mode sniffer
  * Detects deauthentication / disassociation floods
  * Defensive & educational use only
+
+-----
+
+## 🛡️ Legal Disclaimer
+
+This project is intended **strictly for defensive security, educational, and research purposes**.
+
+By using this software, you agree that:
+- You will only monitor networks that you **own or have explicit authorization** to test.
+- You will **not** use this tool to disrupt, attack, or spy on users or networks.
+- You understand that misuse of wireless monitoring tools may violate local laws and regulations.
+
+The author(s) assume **no liability** for misuse, damage, or legal consequences resulting from the use of this software.
+
+⚠️ **Unauthorized monitoring of Wi-Fi networks is illegal in many countries.**
+
 -----
 ## 🔒 Authorized Use Only
 This project is provided for defensive monitoring and educational purposes. Use only on networks you are authorized to administer.
